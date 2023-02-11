@@ -1,2 +1,3 @@
 # .github
-Metadados sobre a organização
+
+Informações gerais
